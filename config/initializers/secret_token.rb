@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Myapp::Application.config.secret_key_base = '91ce479f83d4873d0df24810e43cee7f7439a654a5a9037d156772f03bc75286cad18593a1ddd09db07286b054b63446d311929c57ef65605ee4e059fe9e0a47'
+PostitTemplate::Application.config.secret_key_base = 'c3b33ac1dce53c248590d05387eaccc9ed3b370eea7f701dfb9e2e0ac6d1713b8eed49c97a19f1aab50bc96085700cf0834d77c53f42a1435670f8ff69440038'
